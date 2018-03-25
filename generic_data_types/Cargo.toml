@@ -1,0 +1,6 @@
+[package]
+name = "generic_data_types"
+version = "0.1.0"
+authors = ["Yu Ishihara <yuishihara1225@gmail.com>"]
+
+[dependencies]
